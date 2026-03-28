@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 
-![Sibel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SibelMehdergit&show_icons=true&theme=tokyonight)
+![Sibel's GitHub stats](https://my-github-stats.vercel.app/api?username=SibelMehdergit&show_icons=true&theme=tokyonight)
 
 ---
 
